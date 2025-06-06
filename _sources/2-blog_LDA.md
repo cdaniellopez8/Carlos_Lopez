@@ -3,6 +3,8 @@
 # **Latent Dirichlet Allocation**
 By: <a href="https://www.linkedin.com/in/carlos-daniel-lopez-perez-1b1b521b3/" style="text-decoration: none;">M.Sc. Carlos López</a> and <a href="https://www.linkedin.com/in/humberto-llinas-b1335319/" style="text-decoration: none;">Dr. rer. nat. Humberto Llinás</a>
 
+Posted on June 6, 2025 
+
 </div>
 
 <div style="text-align: justify;">
@@ -85,9 +87,10 @@ This work is a practical and accessible guide on how to uncover hidden topics in
 
 **Affiliations**
 
-**Carlos López:** Industrial Engineer, Specialist in Applied Statistics, M.Sc. in Applied Statistics, Universidad del Norte, Colombia.
+**Carlos López:** Industrial Engineer, Specialist in Applied Statistics, Master Degree in Applied Statistics, Universidad del Norte, Colombia.
 
 **Dr. rer. nat. Humberto Llinás Solano:** Coordinator of the Master’s in Applied Statistics and Full-time Professor in the Department of Mathematics and Statistics, Universidad del Norte, Colombia.
+
 
 
 </div>

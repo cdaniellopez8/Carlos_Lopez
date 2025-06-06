@@ -1,7 +1,9 @@
 <div style="text-align: center;">
 
 # **My Experience in the Master's in Applied Statistics**  
-By: <a href="https://www.linkedin.com/in/carlos-daniel-lopez-perez-1b1b521b3/" style="text-decoration: none;">Carlos López</a> Industrial Engineer, Specialist in Applied Statistics, student of the Master's in Applied Statistics, Universidad del Norte, Colombia
+By: <a href="https://www.linkedin.com/in/carlos-daniel-lopez-perez-1b1b521b3/" style="text-decoration: none;">M.Sc. Carlos López</a> Industrial Engineer, Specialist in Applied Statistics, Master degree in Applied Statistics, Universidad del Norte, Colombia
+
+Posted on June 6, 2025
 
 </div>
 
@@ -35,5 +37,6 @@ His work on LDA is a great example of how deep science can be communicated witho
 
 He also delivered a talk on neural networks that was simply brilliant: clear, well-structured, and educational. He has a gift for teaching, for connecting with the audience, and for doing it all with a smile and professionalism. As his professor and thesis advisor, I couldn’t be prouder of the path Carlos has taken. He wasn’t just an excellent student—one of the best we’ve had in the program—but also a person of integrity, generosity, and deep humanity.  
 I’m convinced that wherever he decides to go next, he will continue to excel and leave a mark. Best of luck, Carlos."
+
 
 </div>
