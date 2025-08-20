@@ -1,0 +1,21 @@
+/* Mover TOC al sidebar derecho */
+.bd-toc {
+  position: fixed !important;
+  right: 0 !important;
+  left: auto !important;
+  width: 200px !important;
+}
+
+/* Quitar navegación de arriba */
+.prev-next-area {
+  display: none !important;
+}
+
+/* Agregar navegación abajo */
+.prev-next-bottom {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  border-top: 1px solid #dee2e6;
+}
