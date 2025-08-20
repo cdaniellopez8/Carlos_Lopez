@@ -70,7 +70,7 @@
 
 <div style="text-align: center;">
 
-![Presentation](presentacion_2.png)  
+![Presentation](presentacion_2.png)   
 **Fig 1.** Lecturer in workshop: Introduction to neural networks, create and train your first network, Universidad del Norte, Colombia. May 17th, 2025.
 
 </div>
