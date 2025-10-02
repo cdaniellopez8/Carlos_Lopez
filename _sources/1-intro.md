@@ -22,7 +22,7 @@
 ## 🧠 Skills
 
 - **Programming Languages**: R, Python (Oriented to Data Analysis and visualization), VBA, SQL  
-- **Tools**: Advanced Excel, Posit Cloud, Quarto, LaTeX, Power BI, Minitab, Statgraphics, Streamlit (Python library), PowerPoint, GitHub Pages  
+- **Tools**: Advanced Excel, Posit Cloud, Quarto, LaTeX, Power BI, Minitab, Statgraphics, Streamlit, PowerPoint, GitHub Pages  
 - **Languages**:  
   - English: Advanced (C1)  
   - French: Intermediate (B1)  
@@ -63,9 +63,15 @@
 
 ## 🧩 Additional Training and Roles
 
-- **2025**: Lecturer in workshop: Introduction to neural networks, create and train your first network, Universidad del Norte. 
+- **Sept 2025**: Lecturer in Bootcamp: *Ciencia en Acción: Datos que transforman al mundo*, Universidad del Norte.  
+  👉 [Official Press Release](https://www.uninorte.edu.co/web/grupo-prensa/w/maestrias-desarrollan-bootcamp-para-explorar-ia-y-modelacion-de-topicos)  
+
+- **March 2025**: Lecturer in workshop: *Introduction to neural networks, create and train your first network*, Universidad del Norte.  
+
 - **2024–2025**: Student representative on the curriculum committee, Master's in Applied Statistics  
+
 - **2022**: Lean Six Sigma Black Belt Training (130 hours), Palermo Sociedad Portuaria  
+
 - **2020**: Diploma in Production and Logistics Operations (150 hours), Palermo Sociedad Portuaria
 
 <div style="text-align: center;">
