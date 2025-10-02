@@ -39,7 +39,7 @@ This course focuses on applying machine learning techniques to business problems
 --- 
 
 
-## 2. 🌐 Streamlit and Github Projects
+## 2. 🌐 Streamlit and GitHub Projects
 Web-based publications and technical guides deployed on GitHub Pages. These projects combine **technical content** with **user-friendly navigation** for public access.
 
 🔗 **[GitHub Pages Full Folder](https://drive.google.com/drive/folders/1T2WW1VXkXGer2b2t7fmU9lNqpVC8yuuR?dmr=1&ec=wgc-drive-globalnav-goto)**
